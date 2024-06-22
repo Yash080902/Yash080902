@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash080902&label=Profile%20views&color=0e75b6&style=flat" alt="yash080902" /> </p>
 
-- 🔭 I’m currently working as a Founder & CEO of **AMBUvians Healthcare Pvt Ltd**
+- 🔭 I’m currently working as a Founder & CEO of **AMBUvians Healthcare Pvt Ltd**, Chapter Lead & President of **MLSA KIET Chapter**  **SocieoTech Innovation Club**
 
-- 🌱 I’m currently learning **Cloud Computing, CyberSecurity, Web development, Figma, UX designer**
+- 🌱 I’m currently learning **Cloud Computing, Aha Management, Healthcare Portfolio Management, ESP32(Console),**
 
-- 💬 Ask me about **Javascript, React, CSS, HTML**
+- 💬 Ask me about **Figma, C++, Python, Data Analyst, Business Analyst, Power BI, Apache Kafka, MYSQL, Higher Statistics, DAX, Visuals Coordinations**
 
-- ⚡ Fun fact **I think I am confident**
+- ⚡ Fun fact **Learn, Innovate, Build & Help**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
