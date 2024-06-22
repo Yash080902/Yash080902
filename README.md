@@ -42,7 +42,7 @@
 </p>
 
 <!-- Add your gif -->
-<img align="left" alt="working" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://www.pivotaltracker.com/marketing_assets/blog/2017/southpark-180abe6ee7132209d07efd952e4e2f08cde3bce635f23b613130094e9aaff72f.gif)">
+<img align="left" alt="working" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://www.pivotaltracker.com/marketing_assets/blog/2017/southpark-180abe6ee7132209d07efd952e4e2f08cde3bce635f23b613130094e9aaff72f.gif">
 
 <!-- Footer -->
 <h3 align="left">Resume:</h3>
